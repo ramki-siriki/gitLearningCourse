@@ -1,4 +1,4 @@
-FeatureBranchText 
+
 Updated parallely in one branch
 
 updated text by one user
