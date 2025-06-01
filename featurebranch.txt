@@ -1,2 +1,6 @@
-FeatureBranchText 
-new remark from feature branch
+
+Updated parallely in one branch
+
+updated text by one user
+
+updated text
